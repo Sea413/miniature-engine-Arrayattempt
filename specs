@@ -1,0 +1,8 @@
+Logic Specs
+
+User Inputs a given sentence.
+User Inputs the word they would like to have replaced.
+User Inputs the word they would like to be the replacement.
+
+Output will display the original sentence.
+Output will display the sentence with the existing replacements.
